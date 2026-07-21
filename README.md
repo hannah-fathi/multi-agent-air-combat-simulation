@@ -520,8 +520,8 @@ air-combat-multi-agent-reinforcement-learning/
 │   └── Technical_Report.pdf
 │
 ├── notebooks/
-│   ├── Part1-Function Approximation in Air Combat Simulation.ipynb
-│   └── Part2-Multi-Agent Drone Defense Reinforcement Learning.ipynb
+│   ├── part1_function_approximation_air_combat.ipynb
+│   └── part2_multi_agent_drone_defense_rl.ipynb
 │
 ├── results/
 │   ├── Aircraft Value Function Training Error.png
