@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite this work."
+
+authors:
+  - family-names: Fathi
+    given-names: Hannah
+
+title: "Air Combat Multi-Agent Reinforcement Learning: Function Approximation and Neural Value-Based Decision Making"
+
+version: 1.0.0
+
+date-released: 2026-07-21
+
+url: "https://github.com/hannah-fathi/air-combat-multi-agent-reinforcement-learning"
+
+keywords:
+  - Reinforcement Learning
+  - Multi-Agent Systems
+  - Function Approximation
+  - Neural Networks
+  - Autonomous Agents
+  - Artificial Intelligence
